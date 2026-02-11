@@ -1,0 +1,5 @@
+{
+  "name": "RAG System Architect",
+  "description": "A comprehensive dashboard for visualizing, simulating, and exporting the architecture and code for a Zendesk + AWS Bedrock RAG system.",
+  "requestFramePermissions": []
+}
