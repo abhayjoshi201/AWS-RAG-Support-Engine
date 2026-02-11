@@ -1,4 +1,4 @@
-# 🧠 RAG Support System
+# AWS RAG Support Engine
 
 > **Retrieval-Augmented Generation** for automated Zendesk ticket responses — powered by AWS Bedrock, OpenSearch, and FastAPI.
 
