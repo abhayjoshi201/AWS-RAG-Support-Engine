@@ -58,7 +58,7 @@ function App() {
         </nav>
 
         <div className="flex items-center gap-4">
-          <a href="#" className="text-gray-400 hover:text-gray-600">
+          <a href="https://github.com/abhayjoshi201/AWS-RAG-Support-Engine" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-gray-600">
             <Github className="w-5 h-5" />
           </a>
         </div>
