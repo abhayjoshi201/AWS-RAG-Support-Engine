@@ -8,6 +8,9 @@ When a new support ticket arrives, the system embeds the ticket text, searches a
 
 ## Architecture
 
+![System Architecture](assets/ui_screenshot.png)
+![Pipeline Simulator](assets/simulator_ui.png)
+
 ```
 ┌─────────────┐     ┌─────────────┐     ┌──────────────────┐     ┌─────────────┐
 │   Zendesk   │────▶│   FastAPI    │────▶│  Bedrock (Titan) │     │  Zendesk    │
