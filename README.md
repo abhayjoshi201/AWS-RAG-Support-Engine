@@ -8,8 +8,6 @@ When a new support ticket arrives, the system embeds the ticket text, searches a
 
 ## Architecture
 
-![System Architecture](assets/ui.png)
-![Pipeline Simulator](assets/simulator.png)
 
 ```
 ┌─────────────┐     ┌─────────────┐     ┌──────────────────┐     ┌─────────────┐
@@ -186,6 +184,9 @@ See [`.env.example`](.env.example) for the full list.
 ## React Dashboard (Optional)
 
 A standalone visual dashboard for exploring the architecture and simulating the pipeline:
+
+![System Architecture](assets/ui.png)
+![Pipeline Simulator](assets/simulator.png)
 
 ```bash
 cd rag-system-architect
